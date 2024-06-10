@@ -9,7 +9,7 @@ Espero que gostem do resultado do Lab.
 
 Realizado a criação de um video de apresentação sobre a importancia de um profissional de CiberSegurança dentro de uma empresa.
 
-### Template
+### Informações
 
 ```markdown
 # Importancia do profissional de CiberSegurança em uma empresa.
